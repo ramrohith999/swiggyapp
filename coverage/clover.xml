@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1750986893465" clover="3.2.0">
+  <project timestamp="1750986893465" name="All files">
+    <metrics statements="29" coveredstatements="24" conditionals="6" coveredconditionals="3" methods="12" coveredmethods="7" elements="47" coveredelements="34" complexity="0" loc="29" ncloc="29" packages="2" files="7" classes="7"/>
+    <package name="components">
+      <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="3" methods="5" coveredmethods="5"/>
+      <file name="Contact.js" path="/Users/ramrohithmaringanti/Desktop/React/src/components/Contact.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+      <file name="Header.js" path="/Users/ramrohithmaringanti/Desktop/React/src/components/Header.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="78" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="19" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="2"/>
+      <file name="UserContext.js" path="/Users/ramrohithmaringanti/Desktop/React/src/utils/UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="appStore.js" path="/Users/ramrohithmaringanti/Desktop/React/src/utils/appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="/Users/ramrohithmaringanti/Desktop/React/src/utils/cartSlice.js">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/Users/ramrohithmaringanti/Desktop/React/src/utils/constants.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="useOnlineStatus.js" path="/Users/ramrohithmaringanti/Desktop/React/src/utils/useOnlineStatus.js">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
